@@ -69,6 +69,8 @@ You can read and/or edit TME configuration file, SUN3, to see if what it does an
 
 ## The SunOS bits
 
+SunOS images for Sun3 can be found on the [Sun3 Archive](https://www.sun3arc.org/).
+
 The mklinks script will create symbolic links with numbers for names. That way the path names in the TME config files will be shorter in the SUN3 configuration file.  Also the sequence of the numbers matches what's in the ancient maketape1 and maketape2 scripts.
 ```
 cd sunos411
