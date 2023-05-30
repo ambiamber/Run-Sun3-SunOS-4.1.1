@@ -47,6 +47,7 @@ At the least you will need the base development and GTK 2 packages.
 `yay -S base-devel gtk2`
 or
 `sudo pacman -S base-devel gtk2`
+### for everybody
 ```
 sudo mkdir /opt/tme  # or make some other directory
 sudo chown $USER /opt/tme # to your personal account instead of the root account
